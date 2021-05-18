@@ -2,9 +2,9 @@
 Snowflake Data Market Place can provide rapid results to external data which can be used as an overlay or enhancement of your existing data to monitor trends and perform compelling results. Building an application to distribute your results rapidly on a modern data platform are key to innovating faster and gaining a competitive advantage. Snowflake combined with Quasar, a modern Application framework together with AWS can help you achieve that competitive advantage. 
 
 In this lab, we will show how to build a small web application we use the Quasar Application Framework and AWS Lambda Python Layer 
-![GitHub Logo](/media/DataM.png)
+![Architecture](/media/DataM.png)
 
-![GitHub Logo](/media/vue-final.png)
+![App Image](/media/vue-final.png)
 
 ## 
 **Prerequisites**
