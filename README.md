@@ -11,9 +11,9 @@ In this lab, we will show how to build a small web application we use the Quasar
 * You will need Sign-up for a free Snowflake trial account.
 
 **What You'll Learn about Data Marketplace**
-* How to explore the Data Marketplace Listings
 *	How to import data from the Data Marketplace
-*		How to review data marketplace data for insight development
+*	How to explore the Data Marketplace Listings
+*	How to review data marketplace data for insight development
 
 **What You'll Learn about Building an Application**
 *	How simple it is to connect to Snowflake Datamarketplace Data
