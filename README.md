@@ -37,27 +37,7 @@ In this lab, we will show how to build a small web application we use the Quasar
 ### SETUP SCRIPT
 ## 1. Download the repository
 git clone https://github.com/brenStokes/Building-an-App-with-Data-Marketplace-.git
-## 1. Now that you have a working Snowflake trial account, follow the following steps.  
 
-1)	At the top right corner, Make sure you are logged in as ACCOUNTADMIN
-2)	Click on Data Marketplace
-3)	Click on  Explore the Snowflake Data Marketplace 
-![Image1](/media/mp1.png)
-
-4)	At the Search bar, type: Knoema Poverty  then click on the Tile Box labeled: Economic Data Atlas.
-![Image2](/media/mp2.png)
-5)	At the top right corner, Select Get Data
-6)	Select the appropriate roles to access the Database being created and accept the Snowflake  consumer terms and Knoema’s terms of use.
-7)	Create Database
-
-![Image3](/media/mp3.png)
-8)	View Database
-![Image4](/media/mp4.png)
-9)	At the Search bar, type: Knoema Poverty  then click on the Tile Box labeled: Poverty Data Atlas. 
-![Image4](/media/mp4.png)
-10)	At the top right corner, Select Get Data
-11)	Select the appropriate roles to access the Database being created and accept the Snowflake  consumer terms and Knoema’s terms of use.
-12)	Create Database
 
 
 
