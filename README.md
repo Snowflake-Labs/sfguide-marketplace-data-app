@@ -30,7 +30,7 @@ In this lab, we will show how to build a small web application we use the Quasar
 **What You'll Need**
 * A AWS free trial Account [Get AWS Trial Account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 * A Snowflake trial Account [Get Snowflake Trial Account](https://signup.snowflake.com/?_ga=2.216496658.583434456.1619544527-1296939414.1603389593)
-* Quasar CLI Installed [Download Quasar](https://quasar.dev/start/pick-quasar-flavour/), [Quasar Installation Video](https://www.youtube.com/watch?v=BK66mQTSl7U)
+* Quasar CLI Installed [Download Quasar CLI](https://quasar.dev/start/pick-quasar-flavour/), [Quasar Installation Video](https://www.youtube.com/watch?v=BK66mQTSl7U)
 * We have added a Python Connector Release for you to **Download** the snow-flake-python-connector-zip file 
 * A fantastic Blog Post by Simon Coombes [Getting your AWS Lambda Function to work with Snoflake-Connector Download] (https://medium.com/snowflake/getting-your-aws-lambda-functions-to-work-with-snowflake-a14b453bb5ee)
 
