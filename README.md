@@ -6,24 +6,24 @@ In this lab, we will show how to build a small web application we use the Quasar
 
 ## 
 **Prerequisites**
-•	We will be using Visual Studio Code in this lab but you are welcome to use your preference.
-•	You will need to Sign-up for a free AWS trial account.
-•	You will need Sign-up for a free Snowflake trial account.
+* We will be using Visual Studio Code in this lab but you are welcome to use your preference.
+* You will need to Sign-up for a free AWS trial account.
+* You will need Sign-up for a free Snowflake trial account.
 
 **What You'll Learn about Data Marketplace**
-•	How to explore the Data Marketplace Listings
-•	How to import data from the Data Marketplace
-•	How to review data marketplace data for insight development
+* How to explore the Data Marketplace Listings
+*	How to import data from the Data Marketplace
+*		How to review data marketplace data for insight development
 
 **What You'll Learn about Building an Application**
-•	How simple it is to connect to Snowflake Datamarketplace Data
-•	How simple it is to query the data from the Marketplace Datasets
-•	How to perform a quik regression analysis on the Datasets
-•	How to create a view of the Marketplace Datasets
-•	How to create a line chart using the Quasar application framework
-•	How to create anin AWS layer with the snow-flake connector 
-•	How to create the AWS lambda function to query snowflake and pass the data to the application endpoint
-•	How to build the Lambda python script to support interaction with the quasar line charts 
+*	How simple it is to connect to Snowflake Datamarketplace Data
+*	How simple it is to query the data from the Marketplace Datasets
+*	How to perform a quik regression analysis on the Datasets
+*	How to create a view of the Marketplace Datasets
+*	How to create a line chart using the Quasar application framework
+*	How to create anin AWS layer with the snow-flake connector 
+*	How to create the AWS lambda function to query snowflake and pass the data to the application endpoint
+*	How to build the Lambda python script to support interaction with the quasar line charts 
 
 **What You'll Need**
 * A AWS free trial Account [Get AWS Trial Account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
