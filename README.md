@@ -8,9 +8,9 @@ In this lab, we will show how to build a small web application we use the Quasar
 
 ## 
 **Prerequisites**
-* We will be using Visual Studio Code in this lab but you are welcome to use your preference.
-* You will need to Sign-up for a free AWS trial account.
-* You will need Sign-up for a free Snowflake trial account.
+* We will be using Visual Studio Code in this lab but you are welcome to use your preference
+* You will need to Sign-up for a free AWS trial account
+* You will need Sign-up for a free Snowflake trial account
 
 **What You'll Learn about Data Marketplace**
 *	How to import data from the Data Marketplace
