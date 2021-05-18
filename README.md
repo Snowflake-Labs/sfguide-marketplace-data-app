@@ -41,7 +41,7 @@ In this lab, we will show how to build a small web application we use the Quasar
 git clone https://github.com/Snowflake-Labs/sfguide-marketplace-data-app.git
 
 ## 2. Download the snowflake-python-connector.zip
-[Download (https://github.com/Snowflake-Labs/sfguide-marketplace-data-app/releases/tag/v1)
+[Download snowflake-python-connector.zip](https://github.com/Snowflake-Labs/sfguide-marketplace-data-app/releases/tag/v1)
 
 
 
