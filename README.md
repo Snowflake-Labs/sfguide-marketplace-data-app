@@ -36,7 +36,7 @@ In this lab, we will show how to build a small web application we use the Quasar
 
 ### Complete this end to end tutorial on [guides.snowflake.com](https://guides.snowflake.com/guide)
 
-### SETUP SCRIPT
+
 ## 1. Download the repository
 git clone https://github.com/Snowflake-Labs/sfguide-marketplace-data-app.git
 
