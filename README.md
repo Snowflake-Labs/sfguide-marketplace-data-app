@@ -4,6 +4,8 @@ Snowflake Data Market Place can provide rapid results to external data which can
 In this lab, we will show how to build a small web application we use the Quasar Application Framework and AWS Lambda Python Layer 
 ![GitHub Logo](/media/DataM.png)
 
+![GitHub Logo](/media/vue-final.png)
+
 ## 
 **Prerequisites**
 * We will be using Visual Studio Code in this lab but you are welcome to use your preference.
