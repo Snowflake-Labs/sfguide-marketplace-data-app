@@ -23,7 +23,7 @@ In this lab, we will show how to build a small web application we use the Quasar
 *	How to perform a quik regression analysis on the Datasets
 *	How to create a view of the Marketplace Datasets
 *	How to create a line chart using the Quasar application framework
-*	How to create anin AWS layer with the snow-flake connector 
+*	How to create an AWS layer with the snow-flake connector 
 *	How to create the AWS lambda function to query snowflake and pass the data to the application endpoint
 *	How to build the Lambda python script to support interaction with the quasar line charts 
 
