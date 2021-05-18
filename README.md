@@ -34,13 +34,13 @@ In this lab, we will show how to build a small web application we use the Quasar
 * We have added a Python Connector Release for you to **Download** the snow-flake-python-connector-zip file 
 * A fantastic Blog Post by Simon Coombes [Getting your AWS Lambda Function to work with Snoflake-Connector Download] (https://medium.com/snowflake/getting-your-aws-lambda-functions-to-work-with-snowflake-a14b453bb5ee)
 
-### Complete this end to end tutorial on [guides.snowflake.com](https://guides.snowflake.com/guide)
+## Complete this end to end tutorial on [guides.snowflake.com](https://guides.snowflake.com/guide)
 
 
-## 1. Download the repository
+### 1. Download the repository
 git clone https://github.com/Snowflake-Labs/sfguide-marketplace-data-app.git
 
-## 2. Download the snowflake-python-connector.zip
+### 2. Download the snowflake-python-connector.zip
 [Download snowflake-python-connector.zip](https://github.com/Snowflake-Labs/sfguide-marketplace-data-app/releases/tag/v1)
 
 
